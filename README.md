@@ -5,3 +5,7 @@ snuff. I will contest to developers new or old to practice. That being said
 I am still new.
 
 This project is inspired from [The Odin Project](https://www.theodinproject.com/)
+
+```Java
+Output -> It's goofing time!
+```
